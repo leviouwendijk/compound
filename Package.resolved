@@ -1,6 +1,15 @@
 {
-  "originHash" : "9b13859f0a19554210af4001e245763f29e94daaa3ee5d30ae5fbf9379587e3d",
+  "originHash" : "2fdab170362996058f5a834e35b03f319f9fb018c025116468946db664ae85b4",
   "pins" : [
+    {
+      "identity" : "economics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/leviouwendijk/Economics.git",
+      "state" : {
+        "revision" : "9c2e8f8237c24c59c876df1da2c4be09aac046d8",
+        "version" : "1.0.0"
+      }
+    },
     {
       "identity" : "swift-argument-parser",
       "kind" : "remoteSourceControl",
